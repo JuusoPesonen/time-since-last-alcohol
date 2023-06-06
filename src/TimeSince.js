@@ -6,7 +6,7 @@ class TimeSince extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            lastDrink: new Date("2023-05-27T14:33:00"), // replace with your last drink datetime
+            lastDrink: new Date("2023-06-06T14:21:00"), // replace with your last drink datetime
             now: new Date(),
         };
     }
